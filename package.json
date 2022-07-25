@@ -1,0 +1,25 @@
+{
+  "name": "remake",
+  "version": "0.0.0",
+  "description": "Game where you utilize your coding skills to win a real steel like battle arena contest.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rish-0-0/remake.git"
+  },
+  "keywords": [
+    "game",
+    "javascript",
+    "webassembly",
+    "cool"
+  ],
+  "author": "Rishabh Anand",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/rish-0-0/remake/issues"
+  },
+  "homepage": "https://github.com/rish-0-0/remake#readme"
+}
